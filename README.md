@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Deborah Agianiye Ikongshul 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Fullstac campaign manager web application, using Next.js 16 and Django
-- 🌱 I’m currently learning Cybersecurity as part of my journey to Security Software Engineering
+A little about me...
+I am a Software Engineer (with a focus on web technologies) exploring Artificial Intelligence and Cybersecurity.
+
+
+## ⚡A quick few facts
+- 🔭 I’m currently working on a Fullstack campaign manager web application, using Next.js 16 and Django
+- 🌱 I’m currently learning Cybersecurity as part of my journey in Security Software Engineering
 - 👯 I’m looking to collaborate on Software Engineering and Cybersecurity projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about How I see tech as a language of connection, not just innovation
-- 📫 How to reach me: 
+- 💬 Ask me about How I see tech as a language of connection, not just innovation 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve debugged code that only worked after I whispered, “Please, behave.” 😅
-
 
 
 ## 🌐 Socials:
