@@ -2,8 +2,7 @@
 
 
 A little about me...
-I am a Software Engineer (with a focus on web technologies) exploring Artificial Intelligence and Cybersecurity.
-
+I am a Software Engineer (with a focus on web technologies) and Cybersecurity Researcher interested in AI-driven behavioural threat modelling, secure software engineering, and human-centred AI systems. My work explores how machine learning can support more secure software development while ensuring AI systems remain trustworthy, explainable, and responsible. 
 
 ## ⚡A quick few facts
 - 🔭 I’m currently working on a Fullstack campaign manager web application, using Next.js 16 and Django
