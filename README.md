@@ -10,7 +10,7 @@ I am a Software Engineer (with a focus on web technologies) and Cybersecurity Re
 - 👯 I’m looking to collaborate on Software Engineering and Cybersecurity projects
 - 💬 Ask me about How I see tech as a language of connection, not just innovation 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I’ve debugged code that only worked after I whispered, “Please, behave.” 😅
+- ⚡ Fun fact: I try writing with my left hand sometimes 😅
 
 
 ## 🌐 Socials:
